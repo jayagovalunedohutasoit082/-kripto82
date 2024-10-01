@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "Shift-Cipher.C": "cpp"
+    }
+}
